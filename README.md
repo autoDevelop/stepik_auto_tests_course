@@ -1,0 +1,2 @@
+# stepik_auto_tests_course
+The repository was created for educational purposes. The repository contains practical buildings for the "Selenium with Python" course
